@@ -2,5 +2,5 @@
 ```
 yarn global add node-dev
 
-node-dev static-server.js 8888
+node-dev dynamic-sever.js 8888
 ```
