@@ -1,4 +1,4 @@
-##### 静态服务器 Static Server
+##### 动态服务器 Dynamic Sever
 ```
 yarn global add node-dev
 
